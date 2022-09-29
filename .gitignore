@@ -1,0 +1,15 @@
+.classpath
+.gitignore
+.project
+.settings/org.eclipse.jdt.core.prefs
+.settings/org.eclipse.m2e.core.prefs
+target/classes/META-INF/MANIFEST.MF
+target/classes/META-INF/maven/Hibernate/HibernateDemo2/pom.properties
+target/classes/META-INF/maven/Hibernate/HibernateDemo2/pom.xml
+target/classes/com/sneha/pojo/Delete.class
+target/classes/com/sneha/pojo/Employee.class
+target/classes/com/sneha/pojo/Insert.class
+target/classes/com/sneha/pojo/Select.class
+target/classes/com/sneha/pojo/Update.class
+target/classes/hibernate.cfg.xml
+.gitignore
